@@ -4,6 +4,10 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 
 
 
@@ -475,6 +479,12 @@ h6,
 #ext_menu-x .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+<<<<<<< Updated upstream
+=======
+#ext_menu-x .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+>>>>>>> Stashed changes
 #header5-w .mbr-section-title {
   color: #28324e;
   font-family: 'Oxygen', sans-serif;
@@ -833,3 +843,81 @@ h6,
 #features3-i H5 {
   color: #000000;
 }
+<<<<<<< Updated upstream
+=======
+
+
+#ext_menu-10 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-10 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-10 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-10 .close-icon::before,
+#ext_menu-10 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-10 .link,
+#ext_menu-10 .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-10 .link {
+  font-size: 1.2rem;
+}
+#ext_menu-10 .dropdown-item,
+#ext_menu-10 .nav-dropdown-sm .link {
+  font-size: 1.300rem;
+}
+#ext_menu-10 .link:hover,
+#ext_menu-10 .dropdown-item:hover,
+#ext_menu-10 .link:focus,
+#ext_menu-10 .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-10 .link[aria-expanded="true"],
+#ext_menu-10 .dropdown-menu {
+  background: #a8a8a8;
+}
+#ext_menu-10 .nav-dropdown-sm .link:focus,
+#ext_menu-10 .nav-dropdown-sm .link:hover,
+#ext_menu-10 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-10 .nav-dropdown-sm .dropdown-item:hover {
+  background: #b9b9b9!important;
+}
+#ext_menu-10 .navbar,
+#ext_menu-10 .nav-dropdown-sm,
+#ext_menu-10 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-10 .nav-dropdown-sm .dropdown-menu {
+  background: #c1c1c1;
+}
+#ext_menu-10 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-10 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-10 .bg-color.transparent.opened .link:hover,
+#ext_menu-10 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-10 .link[aria-expanded="true"],
+#ext_menu-10 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#ext_menu-10 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#form1-11 .form-control-label {
+  color: #000000;
+}
+#form1-11 .mbr-section-title {
+  color: #28324e;
+}
+#form1-11 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+>>>>>>> Stashed changes
